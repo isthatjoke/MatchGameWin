@@ -1,0 +1,16 @@
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\bin\Debug\MatchGameWin.exe.config
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\bin\Debug\MatchGameWin.exe
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\bin\Debug\MatchGameWin.pdb
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin.csproj.AssemblyReference.cache
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MainWindow.g.cs
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\App.g.cs
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin_MarkupCompile.cache
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin_MarkupCompile.lref
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MainWindow.baml
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin.g.resources
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin.Properties.Resources.resources
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin.csproj.GenerateResource.cache
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin.exe
+C:\Users\Timur\source\repos\MatchGameWin\MatchGameWin\MatchGameWin\obj\Debug\MatchGameWin.pdb
