@@ -62,7 +62,7 @@ namespace MatchGameWin
             {
                 if (textblock.Name != "timeTextBlock")
                 {
-                    textblock.Visibility = textblock.Visibility;
+                    textblock.Visibility = Visibility.Visible;
                     int index = random.Next(animalEmoji.Count);
                     string nextEmoji = animalEmoji[index];
                     textblock.Text = nextEmoji;
@@ -70,16 +70,22 @@ namespace MatchGameWin
                 }
                 
             }
-            timer.Start();
+            gameStarted = false;
             tenthOfSecondsElapsed = 0;
             matchesFound = 0;
         }
 
         TextBlock lastTextBlockClicked;
         bool findingMatch = false;
+        bool gameStarted = false;
 
         private void TextBlock_MouseDown(object sender, MouseButtonEventArgs e)
         {
+            if (gameStarted == false)
+            {
+                timer.Start();
+                gameStarted = true;
+            }
             TextBlock textblock = sender as TextBlock;
             if (findingMatch == false)
             {
